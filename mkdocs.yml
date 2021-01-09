@@ -1,7 +1,7 @@
-site_name: ProfileService
-site_url: https://madstudioroblox.github.io/ProfileService
-repo_name: MadStudioRoblox/ProfileService
-repo_url: https://github.com/MadStudioRoblox/ProfileService
+site_name: API Reference Manual
+site_url: https://nocturneent.github.io/Developers-Documentation/
+repo_name: NocturneEnt/Developers-Documentation
+repo_url: https://github.com/NocturneEnt/Developers-Documentation/
 
 theme:
   icon:
@@ -15,11 +15,6 @@ theme:
 
 nav:
   - Home: index.md
-  - Tutorial:
-    - Setting up: tutorial/settingup.md
-    - Basic Usage: tutorial/basic_usage.md
-  - Troubleshooting: troubleshooting.md
-  - API: api.md
 
 markdown_extensions:
   - admonition
